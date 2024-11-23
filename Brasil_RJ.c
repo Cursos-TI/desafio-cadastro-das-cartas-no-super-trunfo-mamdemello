@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-char estado[20];
+char estado[20]; "Rio de Janeiro";
 char codigo[2];
 char cidade[20];
 int populacao;
@@ -13,7 +13,7 @@ printf("digite o estado:");
 scanf("%s", &estado);
 
 printf("digite o codigo:");
-scanf("%s" , &codigo);
+scanf("%s", &codigo);
 
 printf("digite cidade:");
 scanf("%s", &cidade);
@@ -31,15 +31,5 @@ printf("turismo:");
 scanf("&d", &turismo);
 
 return 0;
-
-
-
-
-
-
-
-
-
-
 
 ]
